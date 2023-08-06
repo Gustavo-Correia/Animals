@@ -1,0 +1,24 @@
+
+Nome:Camelo
+Comprimento:160.0 cm
+Patas:4
+Cor:Amarelo
+Ambiente:Terra
+Velocidade:2.2m/s 
+Alimento: Plantas
+
+Nome:Urso
+Comprimento:185.0 cm
+Patas:4
+Cor:Marrom
+Ambiente:Terra
+Velocidade:0.5m/s 
+Alimento: Mel
+
+Nome:Tubarão Martelo
+Comprimento:310.0cm
+Patas:0
+Cor:Cinzento
+Ambiente:Mar
+Velocidade:1.6m/s 
+Caracteristica=Barbatanas e cauda
